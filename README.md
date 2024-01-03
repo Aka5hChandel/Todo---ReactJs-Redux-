@@ -1,8 +1,5 @@
-# React + Vite
+<h1 align="center">Todo</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h3 align="center">create Todo WebApp in React + Vite Js using Redux.</h3>
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![todo](https://github.com/Aka5hChandel/Todo---ReactJs-Redux-/assets/155255568/a07f86d8-ac1d-4529-aaea-9520443c3698)
